@@ -3,4 +3,5 @@ project_id = "wcxdaenhwiiowmoecpli"
 
 [functions.linkedin-auth.deploy.env]
 LINKEDIN_CLIENT_ID = "77kzqqoduziywo"
-LINKEDIN_CLIENT_SECRET = "WPL_AP1.EEG6iatnc4hDePGK.bCwp1Q=="
+# Never commit the secret: set it with `supabase secrets set LINKEDIN_CLIENT_SECRET=...`.
+LINKEDIN_CLIENT_SECRET = "env(LINKEDIN_CLIENT_SECRET)"
