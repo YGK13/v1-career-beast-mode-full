@@ -1,3 +1,7 @@
+> **ARCHIVED: Superseded by [career-beast-mode](https://github.com/YGK13/career-beast-mode) — archived.**
+> This is the 2025 v1 (Lovable) build. It is no longer developed or deployed; all work happens in `career-beast-mode`.
+> A LinkedIn OAuth client secret was previously committed here and remains in git history: it must be rotated.
+
 # Welcome to your Lovable project
 
 ## Project info
